@@ -1,10 +1,8 @@
-# forex_neural
-Short term forex - EurUsd prediction using fann lib. @2008
+# Forex, Eur/Usd paritesi için Yapay Zeka (Yapay Sinir Ağları) ile fiyat tahmin örneği
+Short term forex - EurUsd prediction using fann lib.
 
-Forex EurUsd tahminleri yapmak için Fann kütüphanesi kullanan yapayzeka - yapay sinir ağları örneği.
-
-Ref:
-https://web.archive.org/web/20080927211820/http://www.globalekonomi.com/fvolkany/yapay-zeka-kullanarak-eurusd-parite-tahmini-yapan-programin-egitim-yapan-bolumunun-kaynak-kodlari/
+Kaynak: @2008 Globalekonomi.com fvolkany
+Ref: https://web.archive.org/web/20080927211820/http://www.globalekonomi.com/fvolkany/yapay-zeka-kullanarak-eurusd-parite-tahmini-yapan-programin-egitim-yapan-bolumunun-kaynak-kodlari/
 
 
 Her ne kadar program içinde belli oluyorsa da kısaca açıklamak gerekirse…
